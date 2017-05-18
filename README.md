@@ -40,8 +40,8 @@ use-a!)
 8. Submeta o Pull Request! :D
 
 <br>
-### Pontos Extras:
 
+### Pontos Extras:
 1. Se possível, escreva o código com BackboneJS, se não, use VanillaJS que nós iremos avaliar do mesmo jeito! ;)
 2. Utilizar algum pré-processador CSS. (SASS FTW!)
 3. Testes, testes, testes!
